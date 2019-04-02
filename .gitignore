@@ -1,3 +1,4 @@
+*.lock
 *.md
 /logs/*.log
 allure-results/*
